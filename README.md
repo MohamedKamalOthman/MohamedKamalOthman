@@ -1,7 +1,22 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img align="center" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+  
+  <h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 
+</div>
+  
+## :man_technologist: About Me :
+I am a third year computer engineering student <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="30">
+  <img align="right" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width = "200"/>
+- 🔭 I’m currently working at [MasterMicro](https://www.linkedin.com/company/master-micro/)
+- 🌱 I’m currently learning Machine learning and Neural Networks
+- 👯 I’m looking to collaborate on projects outside my comfort zone
+- 💬 Ask me about **C++, Python, Java, REST APIs, Cloud**
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" **alt="matlab" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="arduino" **alt="arduino" width="40" height="40"/>&nbsp;
@@ -35,17 +50,20 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" **alt="nginx" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+## 📬 Connect with me:
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/MohamedKamal91/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MohamedKamal91" height="40" width="50" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100005220947738" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohamedkamalothman" height="40" width="50" /></a>
+    <a href="https://discordapp.com/users/701177928481898616" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MohamedKamal#6632" height="40" width="50" /></a>
+   <a href="https://codeforces.com/profile/Mohamedkamalothman" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Mohamedkamalothman" height="40" width="50" /></a>
+</div>
 <!--
 **MohamedKamalOthman/MohamedKamalOthman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
