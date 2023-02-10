@@ -7,8 +7,8 @@
   </h1>
 
 </div>
-  
-## :man_technologist: About Me :
+
+### :man_technologist: About Me :
 I am a third year computer engineering student <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="30">
   <img align="right" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width = "200"/>
 - 🔭 I’m currently working at [MasterMicro](https://www.linkedin.com/company/master-micro/)
@@ -16,7 +16,9 @@ I am a third year computer engineering student <img src="https://media.giphy.com
 - 👯 I’m looking to collaborate on projects outside my comfort zone
 - 💬 Ask me about **C++, Python, Java, REST APIs, Cloud**
 
-## :hammer_and_wrench: Languages and Tools :
+---
+
+### :hammer_and_wrench: Languages and Tools :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" **alt="matlab" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="arduino" **alt="arduino" width="40" height="40"/>&nbsp;
@@ -51,7 +53,15 @@ I am a third year computer engineering student <img src="https://media.giphy.com
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## 📬 Connect with me:
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=MohamedKamalOthman&theme=dark)](https://git.io/streak-stats)
+
+---
+
+### 📬 Connect with me:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/MohamedKamal91/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MohamedKamal91" height="40" width="50" /></a>
