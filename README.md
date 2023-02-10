@@ -62,6 +62,14 @@ I am a third year computer engineering student <img src="https://media.giphy.com
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MohamedKamalOthman&theme=dark)](https://git.io/streak-stats)
 
+
+---
+
+### :snake: Snake eating my contributions
+ 
+![snake gif](https://github.com/MohamedKamalOthman/MohamedKamalOthman/blob/output/github-contribution-grid-snake.gif)
+
+
 ---
 
 ### 📬 Connect with me:
@@ -72,11 +80,5 @@ I am a third year computer engineering student <img src="https://media.giphy.com
     <a href="https://discordapp.com/users/701177928481898616" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MohamedKamal#6632" height="40" width="50" /></a>
    <a href="https://codeforces.com/profile/Mohamedkamalothman" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Mohamedkamalothman" height="40" width="50" /></a>
 </div>
-<!--
-**MohamedKamalOthman/MohamedKamalOthman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
