@@ -57,6 +57,9 @@ I am a third year computer engineering student <img src="https://media.giphy.com
 ---
 
 ### :fire: My Stats :
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedKamalOthman&show_icons=true&bg_color=00000000)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=MohamedKamalOthman&theme=dark)](https://git.io/streak-stats)
 
 ---
