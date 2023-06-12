@@ -11,7 +11,7 @@
 ### :man_technologist: About Me :
 I am a third year computer engineering student <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="30">
   <img align="right" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width = "200"/>
-- 🔭 I’m currently working at [MasterMicro](https://www.linkedin.com/company/master-micro/)
+<!-- - 🔭 I’m currently working at [MasterMicro](https://www.linkedin.com/company/master-micro/) -->
 - 🌱 I’m currently learning Machine learning and Neural Networks
 - 👯 I’m looking to collaborate on projects outside my comfort zone
 - 💬 Ask me about **C++, Python, Java, REST APIs, Cloud**
