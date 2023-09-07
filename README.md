@@ -55,23 +55,24 @@ I am a third year computer engineering student <img src="https://media.giphy.com
 
 
 ---
-
 ### :fire: My Stats :
+ <div align='center'>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedKamalOthman&show_icons=true&bg_color=00000000&count_private=true&include_all_commits=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MohamedKamalOthman&theme=dark)](https://git.io/streak-stats)
 
+</div>
 
 ---
-
 ### :snake: Snake eating my contributions
+ <div align='center'>
+   
+![snake gif](https://github.com/MohamedKamalOthman/MohamedKamalOthman/blob/output/github-snake-dark.svg)
  
-![snake gif](https://github.com/MohamedKamalOthman/MohamedKamalOthman/blob/output/github-contribution-grid-snake.svg)
-
+ </div>
 
 ---
-
 ### 📬 Connect with me:
 
 <div id="badges">
