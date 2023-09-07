@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img align="center" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-  
+<!--   <img align="center" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/> -->
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png"/>
   <h1>
   Hi 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Mohamed Kamal
