@@ -35,9 +35,10 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=#00FF00&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake-dark.svg?color_snake=orange&color_dots=#f2dede,#ea9999,#e06666,#d73a49,#cb2431
+            dist/github-snake-blue.svg?color_snake=blue&color_dots=#f2dede,#ea9999,#e06666,#d73a49,#cb2431
+            dist/github-snake-green.svg?color_snake=green&color_dots=#f2dede,#ea9999,#e06666,#d73a49,#cb2431
+           
         env:
           # a github token is required to fetch the contribution calendar from github API
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
