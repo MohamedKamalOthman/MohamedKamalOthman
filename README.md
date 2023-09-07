@@ -68,7 +68,7 @@ I am a third year computer engineering student <img src="https://media.giphy.com
 ### :snake: Snake eating my contributions
  <div align='center'>
    
-![snake gif](https://github.com/MohamedKamalOthman/MohamedKamalOthman/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/MohamedKamalOthman/MohamedKamalOthman/blob/output/github-snake-blue.svg)
  
  </div>
 
