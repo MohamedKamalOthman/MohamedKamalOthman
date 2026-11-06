@@ -76,12 +76,12 @@ I enjoy crafting intuitive user interfaces, designing robust APIs, solving compl
 
 
 ---
-### :snake: Snake eating my contributions
- <div align='center'>
-   
-![snake gif](https://github.com/MohamedKamalOthman/MohamedKamalOthman/blob/output/github-snake-blue.svg)
- 
- </div>
+### :fish: Koi grown from my contributions
+<div align="center">
+
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
+</div>
 
 ---
 ### 📬 Connect with me:
